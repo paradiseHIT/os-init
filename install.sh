@@ -16,3 +16,4 @@ cp -r $PWD/.vim ${HOME}/
 cp -f .vimrc ${HOME}/
 cp -f .gitconfig ${HOME}/
 mkdir -p ~/bin
+echo PATH=~/bin:$PATH >> ~/.bash_profile
