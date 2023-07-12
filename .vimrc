@@ -11,6 +11,7 @@ set backspace=2         " Allows insert-mode backspace to work as one expects
 set cindent
 set expandtab
 set nu
+set paste
 
 colorscheme desert
 
