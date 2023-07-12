@@ -1,0 +1,9 @@
+[user]
+  email = paradisehit@gmail.com
+  name = xing
+[push]
+  default = matching
+[color]
+  diff = auto
+  status = auto
+  branch = auto

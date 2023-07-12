@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/tmp/tmux-547'
+let g:netrw_dirhist_2='/mnt/home/shixing/be-imgdetector-offline/porn/tools/pic_tools'
+let g:netrw_dirhist_3='/mnt/home/shixing/green-sdk-sample-doc-2017-01-12/green-sdk-sample/v2017-01-12/green-python-sdk-sample-v20170112/1130'
+let g:netrw_dirhist_4='/mnt/home/shixing/green-sdk-sample-doc-2017-01-12/green-sdk-sample/v2017-01-12/green-python-sdk-sample-v20170112/test_aliyun'
+let g:netrw_dirhist_5='/data/tmp'
+let g:netrw_dirhist_6='/mnt/home/shixing/image-tools/log_analysis/mafengwo'
+let g:netrw_dirhist_7='/data/home/shixing/pinyin.py'
+let g:netrw_dirhist_8='/data/home/shixing/MySpark/src/main/java/com/shumei/source'
+let g:netrw_dirhist_9='/data/home/shixing/image-tools/log_analysis/mafengwo'
