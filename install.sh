@@ -17,3 +17,5 @@ cp -f .vimrc ${HOME}/
 cp -f .gitconfig ${HOME}/
 mkdir -p ~/bin
 echo PATH=~/bin:$PATH >> ~/.bash_profile
+echo 'alias ls="ls --color"' >>  ~/.bash_profile
+echo 'alias ll="ls --color -l"' >> ~/.bash_profile
